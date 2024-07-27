@@ -4,6 +4,12 @@ www.dio.me
 
 #### Desenvolvido na linguagem Java por:
 - [Marcos Shirafuchi](https://github.com/marcosfshirafuchi)
+
+# Principais Tecnologias
+
+- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title = "Java" /> Java 21 : Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
+- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title = "IntelliJ" /> IntelliJ : Usei o IntelliJ como a IDEA.
+
 # Explorando Desafios de Códigos Básicos em Java
 ## Desafio 01 / 05 -  Operações Bancárias Simples com Switch
 ### Descrição
@@ -79,8 +85,4 @@ Programa encerrado.<br>
   </tbody>
   <tfoot></tfoot>
 </table>
-
-
-
-
 
